@@ -29,12 +29,11 @@ These presentations cover fundamental concepts, case studies, and practical exam
 ## MATLAB Scripts
 
 The repository includes several MATLAB scripts that were used in the course to demonstrate different aspects of mathematical modeling:
-
-1. **Modelado_circuito_genetico_TF.mlx**: This script models a genetic circuit with transcription factors.
-2. **Practica1_SZR.mlx**: A script that simulates a standard Susceptible-Infected-Recovered (SIR) model, demonstrating the spread of disease within a population.
-3. **Volterra_Lotka_Phase_Port_Example.mlx**: Demonstrates phase portraits and dynamics in the Volterra-Lotka predator-prey model.
-4. **Exponential_growth.mlx**: Simulates exponential growth, a fundamental concept in population dynamics and synthetic biology.
-5. **Modelado_circuito_genetico_simple.mlx**: A simpler genetic circuit model focused on constitutive and regulated gene expression.
+1. **Exponential_growth.mlx**: Simulates exponential growth, a fundamental concept in population dynamics and synthetic biology.
+2. **Volterra_Lotka_Phase_Port_Example.mlx**: Demonstrates phase portraits and dynamics in the Volterra-Lotka predator-prey model.
+3. **Practica1_SZR.mlx**: A script that simulates a standard Susceptible-Infected-Recovered (SIR) model, demonstrating the spread of disease within a population.
+4. **Modelado_circuito_genetico_simple.mlx**: A genetic circuit model focused on constitutive and regulated gene expression.
+5. **Modelado_circuito_genetico_TF.mlx**: This script models a genetic circuit with transcription factors.
 
 ## Python Notebooks
 
