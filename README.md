@@ -22,14 +22,14 @@ This repository is designed to support the "Mathematical Modeling in Synthetic B
 The following PowerPoint presentations are included to guide you through the theoretical aspects of the course:
 
 - **[Introduction to Mathematical Modeling](slides/Introduction_to_math_modeling.pdf)**
-- **Modeling Genetic Circuit**
+- **[Modeling Genetic Circuit](slides/Modeling_genetic_circuits.pdf)**
 
 These presentations cover fundamental concepts, case studies, and practical examples used during the course.
 
 ## MATLAB Scripts
 
 The repository includes several MATLAB scripts that were used in the course to demonstrate different aspects of mathematical modeling:
-1. **Exponential_growth.mlx**: Simulates exponential growth, a fundamental concept in population dynamics and synthetic biology.
+1. **[Exponential_growth.mlx](scripts/Exponential_growth.mlx)**: Simulates exponential growth, a fundamental concept in population dynamics and synthetic biology.
 2. **Volterra_Lotka_Phase_Port_Example.mlx**: Demonstrates phase portraits and dynamics in the Volterra-Lotka predator-prey model.
 3. **SIR_model_SZR.mlx**: A script that simulates a standard Susceptible-Infected-Recovered (SIR) model, demonstrating the spread of disease within a population.
 4. **Genetic_circuit_model_simple.mlx**: A genetic circuit model focused on constitutive and regulated gene expression.
@@ -39,7 +39,7 @@ The repository includes several MATLAB scripts that were used in the course to d
 
 For those who prefer Python, we have included Jupyter notebooks that replicate some of the MATLAB examples:
 
-1. **ODEs_Exp_Growth_pyLab.ipynb**: A Python notebook demonstrating the simulation of exponential growth using ordinary differential equations (ODEs).
+1. **[ODEs_Exp_Growth_pyLab.ipynb](scripts/ODEs_Exp_Growth_pyLab.ipynb)**: A Python notebook demonstrating the simulation of exponential growth using ordinary differential equations (ODEs).
 2. **Simulation_Gene_Expression_pyLab.ipynb**: This notebook simulates gene expression and its regulation, providing an introduction to Python-based modeling.
 
 ## Survey
