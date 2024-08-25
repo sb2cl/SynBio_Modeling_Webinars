@@ -48,9 +48,9 @@ Included in this repository is the survey used to assess the course's effectiven
 
 ## How to Use
 
-1. **Presentations**: Review the PowerPoint slides to understand the theoretical foundations of the course.
+1. **Presentations**: Review the PowerPoint slides to understand the theoretical foundations of the course. You can use them in your own teaching with appropriate citation.
 2. **MATLAB Scripts**: Open the `.mlx` files in MATLAB and run the simulations to visualize the modeling concepts.
-3. **Python Notebooks**: Open the `.ipynb` files in Jupyter Notebook or any compatible Python environment to run and modify the simulations.
+3. **Python Notebooks**: Open the `.ipynb` files in Jupyter Notebook, Google Colab or any compatible Python environment to run and modify the simulations.
 4. **Survey**: Use the survey to evaluate your understanding and provide feedback on the course materials.
 
 ## License
