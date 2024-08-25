@@ -1,6 +1,6 @@
 # Synthetic Biology Mathematical Modeling Webinars and Course Resources
 
-Welcome to the repository for the matherials used in "Integrating Mathematical Modeling into Synthetic Biology Education: A Comprehensive Approach through Webinars
+Welcome to the repository for the materials used in "Integrating Mathematical Modeling into Synthetic Biology Education: A Comprehensive Approach through Webinars
 and Syllabus Development". This repository contains all the educational materials, including PowerPoint presentations, MATLAB scripts, Python notebooks, and the survey used to evaluate the course's effectiveness.
 
 ## Table of Contents
@@ -21,7 +21,7 @@ This repository is designed to support the "Mathematical Modeling in Synthetic B
 
 The following PowerPoint presentations are included to guide you through the theoretical aspects of the course:
 
-- **Introduction to Mathematical Modeling**
+- **[Introduction to Mathematical Modeling](slides/Introduction_to_math_modeling.pdf)**
 - **Modeling Genetic Circuit**
 
 These presentations cover fundamental concepts, case studies, and practical examples used during the course.
